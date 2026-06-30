@@ -654,8 +654,8 @@ with personalized retention offers.
 
 \## 👤 Author
 
-\*\*Avinash Tayade\*\*
+\*\*ROHAN GARUD\*\*
 
-\- GitHub: avinashtayade-data
+\- GitHub:rohangarud1719
 
-\- LinkedIn: [https://www.linkedin.com/in/avinash-tayade](https://www.linkedin.com/in/avinash-tayade)
+\- LinkedIn: https://github.com/ROHAN-oss-gyh/Bank-customer-churn-analysis.git
